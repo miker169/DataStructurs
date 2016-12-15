@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/dist/01-Graph copy.js" />
+        <item url="file://$PROJECT_DIR$/dist/Weakmap.js" />
+        <item url="file://$PROJECT_DIR$/dist/HashMap.js" />
+        <item url="file://$PROJECT_DIR$/dist/BinarySearchTree.js" />
+        <item url="file://$PROJECT_DIR$/dist/LinkedList.js" />
+        <item url="file://$PROJECT_DIR$/dist/Queue.js" />
+        <item url="file://$PROJECT_DIR$/dist/Graph.js" />
+        <item url="file://$PROJECT_DIR$/dist/Stack.js" />
+        <item url="file://$PROJECT_DIR$/dist/es6map.js" />
+        <item url="file://$PROJECT_DIR$/dist/Dictionary.js" />
+        <item url="file://$PROJECT_DIR$/dist/weakmapes6.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/dist/01-Graph copy.js" />
+      <root url="file://$PROJECT_DIR$/dist/Weakmap.js" />
+      <root url="file://$PROJECT_DIR$/dist/HashMap.js" />
+      <root url="file://$PROJECT_DIR$/dist/BinarySearchTree.js" />
+      <root url="file://$PROJECT_DIR$/dist/LinkedList.js" />
+      <root url="file://$PROJECT_DIR$/dist/Queue.js" />
+      <root url="file://$PROJECT_DIR$/dist/Graph.js" />
+      <root url="file://$PROJECT_DIR$/dist/Stack.js" />
+      <root url="file://$PROJECT_DIR$/dist/es6map.js" />
+      <root url="file://$PROJECT_DIR$/dist/Dictionary.js" />
+      <root url="file://$PROJECT_DIR$/dist/weakmapes6.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

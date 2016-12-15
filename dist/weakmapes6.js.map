@@ -1,0 +1,1 @@
+{"version":3,"sources":["../Weakmap.js"],"names":["map","WeakMap"],"mappings":";;AAAA,IAAIA,MAAM,IAAIC,OAAJ,EAAV","file":"Weakmap.js","sourcesContent":["var map = new WeakMap();\n"]}
